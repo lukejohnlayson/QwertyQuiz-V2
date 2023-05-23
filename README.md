@@ -1,6 +1,4 @@
 # QwertyQuiz-V2 - 2020
-Not really a second version, as going from a web app to a native app is sort of going backwards
-
 Created for another school project, this time with Kotlin - taking advantage of TornadoFX for the GUI elements.
 
 Provides functionality for the user to complete various multi-choice quizzes.
